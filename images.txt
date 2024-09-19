@@ -1,4 +1,4 @@
-genomicepidemiology/resfinder:latest
+troder/scoary-2:latest
 
 
 
