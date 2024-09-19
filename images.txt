@@ -1,3 +1,4 @@
-cosmos9526/lightdock_v3:latest
+genomicepidemiology/resfinder:latest
+
 
 
