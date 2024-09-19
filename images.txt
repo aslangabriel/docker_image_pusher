@@ -1,2 +1,3 @@
-kbessonov/ectyper:1.0.0
+pegi3s/pymol:latest
+
 
