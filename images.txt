@@ -1,3 +1,3 @@
-pegi3s/pymol:latest
+gromacs/gromacs:2022.2
 
 
