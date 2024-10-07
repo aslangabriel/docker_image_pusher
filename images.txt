@@ -1,4 +1,4 @@
-troder/scoary-2:latest
+fpocket/fpocket:4.2.2
 
 
 
