@@ -1,4 +1,4 @@
-fpocket/fpocket:4.2.2
+staphb/ariba:latest
 
 
 
