@@ -1,4 +1,3 @@
-staphb/ariba:latest
-
+staphb/seqsero2:latest
 
 
